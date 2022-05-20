@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ConditionAndLoops.exe
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ConditionAndLoops.deps.json
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ConditionAndLoops.runtimeconfig.json
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ConditionAndLoops.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ConditionAndLoops.dll
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ref\ConditionAndLoops.dll
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\bin\Debug\net5.0\ConditionAndLoops.pdb
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.dll
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ref\ConditionAndLoops.dll
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.pdb
+C:\Users\lenovo\source\repos\ConditionAndLoops\ConditionAndLoops\obj\Debug\net5.0\ConditionAndLoops.genruntimeconfig.cache
